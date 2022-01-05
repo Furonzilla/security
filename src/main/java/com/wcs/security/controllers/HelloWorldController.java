@@ -28,6 +28,7 @@ public class HelloWorldController {
     	ville.add("La Loupe");
     	ville.add("Bordeaux");
     	ville.add("Marseille");
+    	ville.add("Paris");
 
         return ville;
     }
